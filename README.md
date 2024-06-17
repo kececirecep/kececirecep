@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Recep Kececi</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<a href="https://kececi.me/" target="blank"><b>kececi.me</b></a></br>
+<a href="https://kececi.me/" target="_blank"><b>kececi.me</b></a></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/recepkececi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/recepkececi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/recepkececi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/recepkececi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
