@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Recep Kececi</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<a href="https://kececi.netlify.app/"><b>Netlify</b></a></br>
+<a href="https://kececi.me/"><b>kececi.me</b></a></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
